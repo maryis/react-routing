@@ -1,7 +1,7 @@
 - added libraries:
     npm install bootstrap axios react-router-dom mdbreact
     
-- mdbreact for creating slide easily
+- mdbreact for creating slider easily
     - MDB React - Material Design for Bootstrap (React version)
     - The most popular UI KIT for building responsive, mobile-first websites and apps - free 
 
