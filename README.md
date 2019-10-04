@@ -1,5 +1,5 @@
 - added libraries:
-    npm install bootstrap axios react-router-dom mdbreact
+    npm install bootstrap axios react-router-dom mdbreact reactstrap
     
 - mdbreact for creating slider easily
     - MDB React - Material Design for Bootstrap (React version)
